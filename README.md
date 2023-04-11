@@ -3,7 +3,7 @@ O projeto web em questão se trata de uma plataforma para armazenamento de conhe
 
 
 Objetivos:
-. Ter um design moderno e de bom compreendimento;
-. Vai ser possível inserir novos procedimentos sem precisar codar;
-. Wikis baseados em sistemas de arquivos, Pai&Filho;
-. Dados armazenados em banco relacional e não relacional;
+* Ter um design moderno e de bom compreendimento
+* Possibilitar a inserção de novos procedimentos sem precisar codar
+* Utilizar wikis baseados em sistemas de arquivos, Pai&Filho
+* Armazenar dados em banco relacional e não relacional
