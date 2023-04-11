@@ -6,3 +6,12 @@ postgre- 123456
 
 - Importar o express no index.js
 - listar a porta que vai rodar
+- criar na pasta backend {
+    configurar e definir as middlewares para rodar o bodyparser (json).
+    configurar o Cors para definir quais dominios/portas irao conectar em nosso projeto
+        OBS: temos duas aplicacoes  o backend e o frontend entao o cors e necessario para habilitar as portas para se conectarem
+- Nosso backend e em nodejs
+
+dependencias (
+    consign - serve para ajudar a fazer 'require' em nossas aplicacoes, ira colocar nossos metodos dentro de app etc..
+)
