@@ -4,3 +4,5 @@ postgre- 123456
 
 # PARTE 1 - CONFIG
 
+- Importar o express no index.js
+- listar a porta que vai rodar
