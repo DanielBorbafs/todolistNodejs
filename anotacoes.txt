@@ -1,0 +1,6 @@
+postgre- 123456
+
+## qualquer observacao ou algo do tipo ir salvando aqui- depois sera apagado.
+
+# PARTE 1 - CONFIG
+
