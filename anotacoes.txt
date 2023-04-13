@@ -14,6 +14,7 @@ postgre- 123456
 - create api - user js 
 -  create - routes in config e add post 
 - em index colocar em consign os arquivos que criamos.
+- configurar a conexao com o banco. arquivo knexfile.js depois em config colocar a exportacao do mesmo em db.js
 
 
 dependencias (
