@@ -3,14 +3,18 @@ postgre- 123456
 ## qualquer observacao ou algo do tipo ir salvando aqui- depois sera apagado.
 
 # PARTE 1 - CONFIG
-
+- Startar o postgree -> psql -U postgres senhha: 123456
 - Importar o express no index.js
 - listar a porta que vai rodar
-- criar na pasta backend {
+- criar na pasta backend 
     configurar e definir as middlewares para rodar o bodyparser (json).
     configurar o Cors para definir quais dominios/portas irao conectar em nosso projeto
         OBS: temos duas aplicacoes  o backend e o frontend entao o cors e necessario para habilitar as portas para se conectarem
 - Nosso backend e em nodejs
+- create api - user js 
+-  create - routes in config e add post 
+- em index colocar em consign os arquivos que criamos.
+
 
 dependencias (
     consign - serve para ajudar a fazer 'require' em nossas aplicacoes, ira colocar nossos metodos dentro de app etc..
