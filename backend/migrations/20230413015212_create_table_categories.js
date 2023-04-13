@@ -4,11 +4,10 @@ exports.up = function(knex, Promise) {
         table.increments('id').primary()
         table.string('name').notNull()
         table.integer('parentId').references('id')
-            .intable('categories')
+            .inTable('categories')
     })
 };
 
 exports.down = function(knex, Promise) {
-    return knex.schema.droptable('categories')
-  
+    return knex.schema.dropTable('categories')
 };
