@@ -15,6 +15,7 @@ postgre- 123456
 -  create - routes in config e add post 
 - em index colocar em consign os arquivos que criamos.
 - configurar a conexao com o banco. arquivo knexfile.js depois em config colocar a exportacao do mesmo em db.js
+- utilizar o knex para criar as tables que o resultado sera a pasta migrations com os arquivos de criacoes dentro.
 
 
 dependencias (
