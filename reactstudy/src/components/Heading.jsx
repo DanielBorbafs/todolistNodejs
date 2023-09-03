@@ -1,15 +1,15 @@
 import React from "react";
 
 function Heading() {
-  const date = new Date();
-  const currentTime = date.getHours();
+    const customDate = new Date(2023, 8, 1, 8);
+
+    const currentTime = customDate.getHours();
 
   let greeting;
 
   const customStyle = {
     color: ""
   };
-
   if (currentTime < 12) {
     greeting = "Good Morning";
     customStyle.color = "red";
